@@ -1,4 +1,4 @@
-# X-Ray-Pneumonia-Detection
+# X-Ray-Pneumonia-Detection-using-suitable-techniques
 
 
 Pneumonia is an inflammatory condition that mainly impacts the lungs, and it comes with a range of symptoms like coughing, chest pain, fever, and trouble breathing. This project aims to create an automated system that can detect and classify pneumonia in medical images.
